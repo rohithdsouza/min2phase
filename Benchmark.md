@@ -2,7 +2,7 @@
 
 - Memory: ~1M with twist-flip-pruning (TFP) table, ~0.7M without TFP table.
 
-## Solving time for diffecent target length
+## Solving time for different target length
 
     |   Init   | Unlimited |  21 moves |  20 moves | Init Time |
     |:--------:|:---------:|:---------:|:---------:|:---------:|
